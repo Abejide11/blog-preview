@@ -1,0 +1,67 @@
+body{
+    background-color:hsl(47, 88%, 63%) ;
+}
+.container{
+    width: 310px;
+    align-items: center;
+    justify-content: center;
+height: 70vh;
+background-color:white;
+border-radius: 20px;
+margin-left: 500px;
+margin-top: 150px;
+display: flex;
+}
+
+
+
+.child1{
+    
+
+    
+}
+.image{
+    width: 270px;
+    margin-top: 150px;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.child2{
+    margin-left: 50px;
+    margin-bottom: 150px;
+}
+.rectangle{
+    background-color: yellow;
+    height: 20px;
+    border-radius: 4px;
+    width: 70px;
+    border: 5em 5em
+}   
+.ig{
+    
+flex-direction: row;
+display: flex;
+
+
+}
+.greg{
+    margin-left: 10px;
+    display: flex;
+    font-weight: 900;
+
+
+
+}
+.image-avatar{
+    height: 40px;
+width: 40px;
+}
+.html{
+    color: yellow;
+    font-weight:bold;
+    cursor: pointer;
+}
+
+
+
